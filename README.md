@@ -87,7 +87,7 @@ Calculate probability from probability mapping by an intersection of all edges o
              return risk
 
 
-Time Complexity: $n \times 2^n$
+Time Complexity: <img src="https://render.githubusercontent.com/render/math?math=n \times 2^n">
 
 
 
